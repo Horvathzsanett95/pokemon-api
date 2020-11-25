@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  background-color: #f0ebad;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
